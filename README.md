@@ -1,8 +1,8 @@
-# vue-admin-template
+# 青火个人站
 
-> A minimal vue admin template with Element UI & axios & iconfont & permission control & lint
+> 是vue-admin-template项目的基础上,修改而成
 
-**Live demo:** http://panjiachen.github.io/vue-admin-template
+**原项目地址:** http://panjiachen.github.io/vue-admin-template
 
 [中文文档](https://github.com/PanJiaChen/vue-admin-template/blob/master/README-zh.md)
 
